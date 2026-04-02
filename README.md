@@ -4,7 +4,7 @@
 
 [![Org](https://img.shields.io/badge/GitHub-K--Mentorship--Hub-black)](https://github.com/K-Mentorship-Hub)
 [![Sphere](https://img.shields.io/badge/Sphere%20III-Technology-2f9e44)](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY)
-[![Stack](https://img.shields.io/badge/stack-Notion%20%2B%20Discord%20%2B%20GitHub-purple)](https://github.com/K-Mentorship-Hub)
+[![Stack](https://img.shields.io/badge/stack-GitHub%20%2B%20Discord%20%2B%20Tally-purple)](https://github.com/K-Mentorship-Hub)
 
 *Clarify the tool. Build the system. Make the work usable.*
 
@@ -72,6 +72,20 @@ This sphere helps people:
 
 ---
 
+## Practical Specialties
+
+This sphere is the strongest home for:
+
+- `AI & Machine Learning`
+- `Cybersecurity`
+- `SaaS & Enterprise Software`
+- `IoT & Smart Devices`
+- `Web3 / Blockchain`
+- `Gaming & Interactive Entertainment`
+- `SpaceTech`
+
+---
+
 ## How This Sphere Appears Inside KMH
 
 ### Academy
@@ -120,8 +134,8 @@ Choose a clean `primary_sphere`, then label the hybrid.
 ## Source Of Truth
 
 - `GitHub` for docs, code, templates, and issue-based practice
-- `Notion` for guidebook, intake, and routing
 - `Discord` for live coordination and technical discussion
+- `Tally` for intake and opt-in technical routing
 - `Hugging Face` for demos and runtime layers when relevant
 
 ---
