@@ -117,6 +117,16 @@ Use this sphere to connect:
 
 ---
 
+## Starter Practice
+
+See:
+
+- [`PRACTICE-TASKS.md`](./PRACTICE-TASKS.md)
+
+Use these tasks for small builds, dashboards, and technical contribution practice.
+
+---
+
 ## Practical Rule
 
 Technology is often the enabling layer, not always the whole story.
