@@ -1,6 +1,6 @@
-# K Mentorship Hub · SPHERE III / TECHNOLOGY
+# K Mentorship Hub - SPHERE III / TECHNOLOGY
 
-**A structured implementation-facing direction layer for turning ideas into tools, systems, automation, and usable technical surfaces**
+**A structured implementation-facing direction layer for turning ideas into tools, systems, automation, and usable technical surfaces.**
 
 [![Org](https://img.shields.io/badge/GitHub-K--Mentorship--Hub-black)](https://github.com/K-Mentorship-Hub)
 [![Sphere](https://img.shields.io/badge/Sphere%20III-Technology-2f9e44)](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY)
@@ -42,33 +42,44 @@ This sphere helps people:
 
 ## Core Directions
 
-### `T1` · AI, Data, and Analytical Engines
+### `T1` - AI, Data, and Analytical Engines
 
 - analytics
 - AI productivity
 - technical reasoning systems
 - practical data-first direction
 
-### `T2` · Software, Engineering, and Automation
+### `T2` - Software, Engineering, and Automation
 
 - software foundations
 - automation logic
 - system-building habits
 - implementation support for products and ventures
 
-### `T3` · Dashboards, Interfaces, and Open Tools
+### `T3` - Dashboards, Interfaces, and Open Tools
 
 - public interfaces
 - demo surfaces
 - tool-first MVPs
 - dashboards that make work inspectable and usable
 
-### `T4` · Infrastructure, Reproducibility, and Technical Ops
+### `T4` - Infrastructure, Reproducibility, and Technical Ops
 
 - reproducibility
 - process stability
 - structured workflows
 - lightweight technical operating systems
+
+---
+
+## Active Execution Docs
+
+Use the active docs layer for structured technical research and GPT-assisted work:
+
+- [`docs/README.md`](./docs/README.md)
+- [`docs/core/T1_T4_RESEARCH_EXECUTION_INDEX.md`](./docs/core/T1_T4_RESEARCH_EXECUTION_INDEX.md)
+- [`docs/core/TECHNOLOGY_STRUCTURE_APPROVAL_GATE.md`](./docs/core/TECHNOLOGY_STRUCTURE_APPROVAL_GATE.md)
+- [`docs/core/GPT_ASSISTED_TECHNOLOGY_WORKFLOW.md`](./docs/core/GPT_ASSISTED_TECHNOLOGY_WORKFLOW.md)
 
 ---
 
@@ -90,30 +101,15 @@ This sphere is the strongest home for:
 
 ### Academy
 
-Use this sphere for:
-
-- technical foundations
-- AI and data literacy
-- implementation paths
-- practical builder guidance
+Use this sphere for technical foundations, AI and data literacy, implementation paths, and practical builder guidance.
 
 ### MVP Lab
 
-Use this sphere for:
-
-- software MVPs
-- automation MVPs
-- tool-first products
-- technical implementation support for hybrid ideas
+Use this sphere for software MVPs, automation MVPs, tool-first products, and technical implementation support for hybrid ideas.
 
 ### Networking
 
-Use this sphere to connect:
-
-- developers
-- analysts
-- automation-minded builders
-- technically curious collaborators
+Use this sphere to connect developers, analysts, automation-minded builders, and technically curious collaborators.
 
 ---
 
