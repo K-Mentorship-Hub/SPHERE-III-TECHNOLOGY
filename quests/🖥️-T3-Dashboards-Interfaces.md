@@ -10,31 +10,31 @@
 
 | | |
 |---|---|
-| **Sphere** | T — Technology |
-| **Core question** | How do you make complex information understandable and actionable? |
-| **Best for** | People who care about how information *feels* to interact with |
-| **Good first output** | Static dashboard mockup or README makeover |
-| **Test-drive quest** | [Quest 5 — Design & UX](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-05-design-ux.md) |
+| 🏷️ **Sphere** | T — Technology |
+| 🎯 **Core question** | How do you make complex information understandable and actionable? |
+| 👤 **Best for** | People who care about how information *feels* to interact with |
+| 🏆 **Good first output** | Static dashboard mockup or README makeover |
+| 🧪 **Test-drive quest** | [Quest 5 — Design & UX](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-05-design-ux.md) |
 
 ---
 
 ## 📖 Theory Bite
 
-| Concept | What it means |
+| 🧩 Concept | 💡 What it means |
 |---------|---------------|
 | Information hierarchy | What's most important? Show that first. Hide the rest. |
 | Progressive disclosure | Summary → drill-down → raw data |
-| Cognitive load | Every pixel that doesn't inform is noise |
+| Cognitive load | Every pixel that doesn't inform is noise — reduce unnecessary mental effort |
 | Open tools philosophy | Build tools others can extend, not just consume |
 
 ---
 
 ## ⚔️ Quests
 
-### Quest T3.1 — Static Dashboard Mockup
+### 🗝️ Quest T3.1 — Static Dashboard Mockup
 **⏱ Time:** ~45 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Design a dashboard for one direction using any tool (paper, Figma, HTML).
+**Quest:** Design a dashboard for one direction using any tool (paper, Figma, HTML).
 
 **Include:**
 - 3 key metrics (with numbers, not just labels)
@@ -59,10 +59,10 @@ DASHBOARD: [Direction name]
 
 ---
 
-### Quest T3.2 — README Makeover
+### 🗝️ Quest T3.2 — README Makeover
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Improve one public README. Before → After comparison.
+**Quest:** Improve one public README. Before → After comparison.
 
 | Aspect | Before | After | Why |
 |--------|--------|-------|-----|
@@ -73,18 +73,18 @@ DASHBOARD: [Direction name]
 
 ---
 
-### Quest T3.3 — Tool Explanation
+### 🗝️ Quest T3.3 — Tool Explanation
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Explain one technical tool to someone who has never heard of it.
+**Quest:** Explain one technical tool to someone who has never heard of it.
 
-**Rules:**
+> 💭 **Reflection:**
 - No jargon in the first paragraph
 - Use an analogy
 - Include: what it does, when to use it, one gotcha
 
 <details>
-<summary>💡 Example: Explaining Docker</summary>
+<summary>🔧 Stuck? Example: Explaining Docker</summary>
 
 **Bad:** "Docker is a containerization platform that uses OS-level virtualization to deliver software in packages called containers."
 
@@ -94,10 +94,10 @@ DASHBOARD: [Direction name]
 
 ---
 
-### Quest T3.4 — Component Library Audit
+### 🗝️ Quest T3.4 — Component Library Audit
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Evaluate one open-source UI library.
+**Quest:** Evaluate one open-source UI library.
 
 | Criterion | Rating (1-5) | Notes |
 |-----------|-------------|-------|
@@ -113,10 +113,10 @@ DASHBOARD: [Direction name]
 
 ---
 
-### Quest T3.5 — Accessibility Check
+### 🗝️ Quest T3.5 — Accessibility Check
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Test one website for accessibility issues.
+**Quest:** Test one website for accessibility issues.
 
 | Issue | Where | How to fix | Impact |
 |-------|-------|-----------|--------|
@@ -130,13 +130,13 @@ DASHBOARD: [Direction name]
 
 ## 🧭 Test-Drive Verdict
 
-| Signal | Flag |
+| 📡 Signal | 🚩 Flag |
 |--------|------|
-| You kept redesigning after the task | 🟢 Green |
-| You naturally thought about edge cases | 🟢 Green |
-| You preferred visual styling over structure | 🟡 Yellow (maybe visual design, not UX) |
-| You wanted clear requirements, not ambiguity | 🟡 Yellow (maybe 💻 T2 — Engineering) |
-| User research felt tedious | 🔴 Red |
+| 🎨 You kept redesigning after the task | 🟢 **Green** — this is your path |
+| 🔍 You naturally thought about edge cases | 🟢 **Green** — lean into this |
+| 🎨 You preferred visual styling over structure | 🟡 **Yellow** — maybe visual design, not UX |
+| 📋 You wanted clear requirements, not ambiguity | 🟡 **Yellow** — maybe 💻 T2 — Engineering |
+| 😴 User research felt tedious | 🔴 **Red** |
 
 ---
 

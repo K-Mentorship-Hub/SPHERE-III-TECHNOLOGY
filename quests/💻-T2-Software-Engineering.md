@@ -10,18 +10,18 @@
 
 | | |
 |---|---|
-| **Sphere** | T — Technology |
-| **Core question** | How do you turn problems into working code and keep it running? |
-| **Best for** | People who enjoy the puzzle of "why doesn't this work?" |
-| **Good first output** | First repo setup guide or API exploration |
-| **Test-drive quest** | [Quest 2 — Code & Engineering](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-02-code-engineering.md) |
-| **Deep practice** | [DevOps Lab](https://github.com/TEZv/devops-lab) — full quest-style Docker/Terraform/K8s/CI-CD |
+| 🏷️ **Sphere** | T — Technology |
+| 🎯 **Core question** | How do you turn problems into working code and keep it running? |
+| 👤 **Best for** | People who enjoy the puzzle of "why doesn't this work?" |
+| 🏆 **Good first output** | First repo setup guide or API exploration |
+| 🧪 **Test-drive quest** | [Quest 2 — Code & Engineering](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-02-code-engineering.md) |
+| 🛠️ **Deep practice** | [DevOps Lab](https://github.com/TEZv/devops-lab) — full quest-style Docker/Terraform/K8s/CI-CD |
 
 ---
 
 ## 📖 Theory Bite
 
-| Concept | What it means |
+| 🧩 Concept | 💡 What it means |
 |---------|---------------|
 | Build-measure-debug loop | Write → test → fix → repeat (debugging is most of the job) |
 | Abstraction | Hide complexity behind simple interfaces — the core skill |
@@ -32,10 +32,10 @@
 
 ## ⚔️ Quests
 
-### Quest T2.1 — Workflow Diagram
+### 🗝️ Quest T2.1 — Workflow Diagram
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Turn a repetitive process into a diagram and find automation opportunities.
+**Quest:** Turn a repetitive process into a diagram and find automation opportunities.
 
 ```
 WORKFLOW: [Process name]
@@ -50,10 +50,10 @@ WORKFLOW: [Process name]
 
 ---
 
-### Quest T2.2 — Automation Checklist
+### 🗝️ Quest T2.2 — Automation Checklist
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Design an automation without writing code.
+**Quest:** Design an automation without writing code.
 
 | Component | Your design |
 |-----------|------------|
@@ -65,10 +65,10 @@ WORKFLOW: [Process name]
 
 ---
 
-### Quest T2.3 — First Repo Setup Guide
+### 🗝️ Quest T2.3 — First Repo Setup Guide
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Write a Git guide for someone who has never used version control.
+**Quest:** Write a Git guide for someone who has never used version control.
 
 **Cover:**
 1. Install Git
@@ -78,7 +78,7 @@ WORKFLOW: [Process name]
 5. One common mistake and how to fix it
 
 <details>
-<summary>💡 The most common beginner mistake</summary>
+<summary>� Stuck</summary>
 
 Committing sensitive data (API keys, passwords) to a public repo. Fix:
 - Always check `git diff` before committing
@@ -89,10 +89,10 @@ Committing sensitive data (API keys, passwords) to a public repo. Fix:
 
 ---
 
-### Quest T2.4 — API Exploration
+### 🗝️ Quest T2.4 — API Exploration
 **⏱ Time:** ~45 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Make 3 requests to a public API and document what you find.
+**Quest:** Make 3 requests to a public API and document what you find.
 
 | Request | Endpoint | Parameters | Response format | Surprising thing |
 |---------|----------|------------|-----------------|-----------------|
@@ -104,10 +104,10 @@ Committing sensitive data (API keys, passwords) to a public repo. Fix:
 
 ---
 
-### Quest T2.5 — Bug Report
+### 🗝️ Quest T2.5 — Bug Report
 **⏱ Time:** ~20 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Write a professional bug report for any software.
+**Quest:** Write a professional bug report for any software.
 
 ```
 BUG REPORT
@@ -125,12 +125,12 @@ BUG REPORT
 
 ## 🧭 Test-Drive Verdict
 
-| Signal | Flag |
+| 📡 Signal | 🚩 Flag |
 |--------|------|
-| Debugging felt like a puzzle, not a chore | 🟢 Green |
-| You kept adding features beyond the task | 🟢 Green |
-| You cared more about how it looks than how it works | 🟡 Yellow (maybe 🎨 T3 — Dashboards) |
-| You hated debugging and wanted it to "just work" | 🔴 Red |
+| 🐛 Debugging felt like a puzzle, not a chore | 🟢 **Green** — this is your path |
+| 🔧 You kept adding features beyond the task | 🟢 **Green** — lean into this |
+| 🎨 You cared more about how it looks than how it works | 🟡 **Yellow** — maybe 🖥️ T3 — Dashboards |
+| 😤 You hated debugging and wanted it to "just work" | 🔴 **Red** |
 
 ---
 

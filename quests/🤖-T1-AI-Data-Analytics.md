@@ -2,7 +2,7 @@
 
 **Sphere:** T | **Quest Line:** Turning Raw Information Into Decisions
 
-> *"60-80% of data work is cleaning. The other 20% is explaining results to people who don't speak statistics."*
+> 🧹 *"60-80% of data work is cleaning. The other 20% is explaining results to people who don't speak statistics."*
 
 ---
 
@@ -10,31 +10,31 @@
 
 | | |
 |---|---|
-| **Sphere** | T — Technology |
-| **Core question** | How do you turn raw data into insights, predictions, and decisions? |
-| **Best for** | People who find satisfaction when patterns emerge from chaos |
-| **Good first output** | Tiny dataset + one visual insight |
-| **Test-drive quest** | [Quest 1 — AI & Data Careers](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-01-ai-data.md) |
+| 🏷️ **Sphere** | T — Technology |
+| 🎯 **Core question** | How do you turn raw data into insights, predictions, and decisions? |
+| 👤 **Best for** | People who find satisfaction when patterns emerge from chaos |
+| 🏆 **Good first output** | Tiny dataset + one visual insight |
+| 🧪 **Test-drive quest** | [Quest 1 — AI & Data Careers](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-01-ai-data.md) |
 
 ---
 
 ## 📖 Theory Bite
 
-| Concept | What it means |
+| 🧩 Concept | 💡 What it means |
 |---------|---------------|
-| Data pipeline | Collect → Clean → Analyze → Visualize → Recommend |
-| Model thinking | Every AI system is a simplification — understand what it captures and misses |
-| Feature engineering | Quality of inputs determines quality of outputs |
-| Evaluation bias | "Accurate" can be misleading — always ask "accurate for whom?" |
+| 🔄 Data pipeline | Collect → Clean → Analyze → Visualize → Recommend |
+| 🧠 Model thinking | Every AI system is a simplification — understand what it captures and misses |
+| 🔧 Feature engineering | Quality of inputs determines quality of outputs |
+| ⚖️ Evaluation bias | "Accurate" can be misleading — always ask "accurate for whom?" |
 
 ---
 
 ## ⚔️ Quests
 
-### Quest T1.1 — Tiny Dataset + Insight
+### 🗝️ Quest T1.1 — Tiny Dataset + Insight
 **⏱ Time:** ~60 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Build a dataset, clean it, find one insight, and make one chart.
+**Quest:** Build a dataset, clean it, find one insight, and make one chart.
 
 **Steps:**
 1. Create a CSV with 20 rows (sales, weather, grades — anything)
@@ -44,7 +44,7 @@
 5. Write one paragraph of recommendation
 
 <details>
-<summary>💡 Starter Python code</summary>
+<summary>� Starter Python code</summary>
 
 ```python
 import pandas as pd
@@ -65,10 +65,10 @@ plt.savefig('chart.png')
 
 ---
 
-### Quest T1.2 — Tool Comparison
+### 🗝️ Quest T1.2 — Tool Comparison
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Compare 3 tools for the same data task.
+**Quest:** Compare 3 tools for the same data task.
 
 | Tool | When to use | When to avoid | Learning curve |
 |------|------------|--------------|----------------|
@@ -78,10 +78,10 @@ plt.savefig('chart.png')
 
 ---
 
-### Quest T1.3 — AI Productivity Starter Stack
+### 🗝️ Quest T1.3 — AI Productivity Starter Stack
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Create a guide of 5 AI tools that actually help with daily work.
+**Quest:** Create a guide of 5 AI tools that actually help with daily work.
 
 | Tool | What it does | When to use | One gotcha |
 |------|-------------|-------------|-----------|
@@ -93,10 +93,10 @@ plt.savefig('chart.png')
 
 ---
 
-### Quest T1.4 — Bias Audit
+### 🗝️ Quest T1.4 — Bias Audit
 **⏱ Time:** ~45 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Find bias in an AI system you use daily.
+**Quest:** Find bias in an AI system you use daily.
 
 **Steps:**
 1. Pick one AI system (search, recommendations, autocomplete, hiring tool)
@@ -111,10 +111,10 @@ plt.savefig('chart.png')
 
 ---
 
-### Quest T1.5 — Prompt Engineering Lab
+### 🗝️ Quest T1.5 — Prompt Engineering Lab
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Write 5 prompts for the same task and compare results.
+**Quest:** Write 5 prompts for the same task and compare results.
 
 | Prompt # | Specificity | Context | Constraints | Result quality (1-5) |
 |----------|------------|---------|-------------|---------------------|
@@ -124,18 +124,19 @@ plt.savefig('chart.png')
 | 4 | High | Rich | Specific | |
 | 5 | High | Rich + example | Strict | |
 
-**Reflection:** Did you enjoy the systematic variation, or did it feel tedious?
+> 💭 **Reflection:** Did you enjoy the systematic variation, or did it feel tedious?
 
 ---
 
 ## 🧭 Test-Drive Verdict
 
-| Signal | Flag |
+| 📡 Signal | 🚩 Flag |
 |--------|------|
-| You lost track of time exploring the data | 🟢 Green |
-| Cleaning data felt satisfying, not painful | 🟢 Green |
-| You preferred the tools over the meaning | 🟡 Yellow (maybe data engineering, not analytics) |
-| Data work felt like a chore | 🔴 Red |
+| 🐇 You went down a rabbit hole cleaning data | 🟢 **Green** — this is your path |
+| 🔮 Patterns emerging felt like magic | 🟢 **Green** — lean into this |
+| 🤖 You preferred using AI over understanding it | 🟡 **Yellow** — maybe AI user, not builder |
+| 🧮 The math felt like a wall | 🟡 **Yellow** — maybe no-code/low-code tools |
+| 😴 Data felt boring | 🔴 **Red** |
 
 ---
 

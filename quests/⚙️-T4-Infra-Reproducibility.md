@@ -10,18 +10,18 @@
 
 | | |
 |---|---|
-| **Sphere** | T — Technology |
-| **Core question** | How do you make systems reliable, repeatable, and observable? |
-| **Best for** | People who find satisfaction in preventing problems — even when prevention is invisible |
-| **Good first output** | Reproducibility checklist or runbook |
-| **Test-drive quest** | [Quest 3 — Cybersecurity & Infrastructure](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-03-cyber-infra.md) |
-| **Deep practice** | [DevOps Lab](https://github.com/TEZv/devops-lab) — Docker, Terraform, K8s, CI/CD challenges |
+| 🏷️ **Sphere** | T — Technology |
+| 🎯 **Core question** | How do you make systems reliable, repeatable, and observable? |
+| 👤 **Best for** | People who find satisfaction in preventing problems — even when prevention is invisible |
+| 🏆 **Good first output** | Reproducibility checklist or runbook |
+| 🧪 **Test-drive quest** | [Quest 3 — Cybersecurity & Infrastructure](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-03-cyber-infra.md) |
+| 🛠️ **Deep practice** | [DevOps Lab](https://github.com/TEZv/devops-lab) — Docker, Terraform, K8s, CI/CD challenges |
 
 ---
 
 ## 📖 Theory Bite
 
-| Concept | What it means |
+| 🧩 Concept | 💡 What it means |
 |---------|---------------|
 | Infrastructure as Code (IaC) | Define infrastructure in files, not clicks — Terraform, Pulumi, CloudFormation |
 | Reproducibility | If it works on your machine, it should work on any — Docker, Nix, lock files |
@@ -34,10 +34,10 @@
 
 ## ⚔️ Quests
 
-### Quest T4.1 — Reproducibility Checklist
+### 🗝️ Quest T4.1 — Reproducibility Checklist
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Create a checklist that ensures anyone can reproduce your project.
+**Quest:** Create a checklist that ensures anyone can reproduce your project.
 
 | Category | Checklist item | ✅/❌ |
 |----------|---------------|------|
@@ -51,10 +51,10 @@
 
 ---
 
-### Quest T4.2 — Manual vs. Structured Workflow
+### 🗝️ Quest T4.2 — Manual vs. Structured Workflow
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Compare click-click-deploy with pipeline-as-code.
+**Quest:** Compare click-click-deploy with pipeline-as-code.
 
 | Aspect | Manual workflow | Structured workflow |
 |--------|----------------|-------------------|
@@ -67,10 +67,10 @@
 
 ---
 
-### Quest T4.3 — Build Process Note
+### 🗝️ Quest T4.3 — Build Process Note
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Write a "how to keep your build process clean" note.
+**Quest:** Write a "how to keep your build process clean" note.
 
 **Cover:**
 1. Dependency management (why pin versions)
@@ -79,10 +79,10 @@
 
 ---
 
-### Quest T4.4 — Monitoring Design
+### 🗝️ Quest T4.4 — Monitoring Design
 **⏱ Time:** ~45 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Design a monitoring setup for a web application.
+**Quest:** Design a monitoring setup for a web application.
 
 | Metric | Why track it | Alert threshold | Escalation |
 |--------|-------------|----------------|------------|
@@ -96,10 +96,10 @@
 
 ---
 
-### Quest T4.5 — Runbook
+### 🗝️ Quest T4.5 — Runbook
 **⏱ Time:** ~45 min | **Difficulty:** ⭐⭐⭐ Advanced
 
-**Goal:** Write a runbook for one operational task.
+**Quest:** Write a runbook for one operational task.
 
 ```
 RUNBOOK: [Task name]
@@ -118,12 +118,13 @@ RUNBOOK: [Task name]
 
 ## 🧭 Test-Drive Verdict
 
-| Signal | Flag |
+| 📡 Signal | 🚩 Flag |
 |--------|------|
-| You found satisfaction in preventing problems | 🟢 Green |
-| Writing runbooks and checklists felt valuable | 🟢 Green |
-| You preferred building new things over maintaining | 🟡 Yellow (maybe 💻 T2 — Engineering) |
-| Infrastructure work felt invisible and unrewarding | 🔴 Red |
+| 🔧 You enjoyed making things reproducible | � **Green** — this is your path |
+| 📋 The runbook felt like a real safety net | 🟢 **Green** — lean into this |
+| 😐 You found the detail tedious | 🟡 **Yellow** — maybe 💻 T2 — Engineering |
+| 🚀 You wanted to build features, not keep them running | 🟡 **Yellow** |
+| 😴 Prevention felt invisible and unrewarding | 🔴 **Red** |
 
 ---
 
