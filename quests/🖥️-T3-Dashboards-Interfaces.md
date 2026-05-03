@@ -145,3 +145,36 @@ DASHBOARD: [Direction name]
 - **Test-drive first?** → [Quest 5 — Design & UX](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-05-design-ux.md)
 - **Need data for your dashboard?** → 🤖 T1 — AI & Data
 - **Need reliable hosting?** → ⚙️ T4 — Infra & Reproducibility
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| T3.1 — Static Dashboard Mockup | ~45 min | ⬜ |
+| T3.2 — README Makeover | ~30 min | ⬜ |
+| T3.3 — Tool Explanation | ~30 min | ⬜ |
+| T3.4 — Component Library Audit | ~30 min | ⬜ |
+| T3.5 — Accessibility Check | ~30 min | ⬜ |
+
+**Total estimated time: ~3 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your design/UX map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 📊 Dashboard Designer | Quest T3.1 |
+| ✍️ README Stylist | Quest T3.2 |
+| 🗣️ Explainer | Quest T3.3 |
+| 🧩 Component Auditor | Quest T3.4 |
+| ♿ Accessibility Checker | Quest T3.5 |
+| 🏆 UX-Design Ready | All Quests Complete |
+
+**You started thinking design was just making things pretty. You ended with information hierarchy, accessibility, and the skill to make complex things clear.** 🎉

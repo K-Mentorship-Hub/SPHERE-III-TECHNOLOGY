@@ -156,3 +156,36 @@ plt.savefig('chart.png')
 - **Test-drive first?** → [Quest 1 — AI & Data](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-01-ai-data.md)
 - **Want to build data tools?** → 🖥️ T3 — Dashboards & Interfaces
 - **Need infra for data pipelines?** → ⚙️ T4 — Infra & Reproducibility
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| T1.1 — Tiny Dataset + Insight | ~60 min | ⬜ |
+| T1.2 — Tool Comparison | ~30 min | ⬜ |
+| T1.3 — AI Productivity Starter Stack | ~30 min | ⬜ |
+| T1.4 — Bias Audit | ~45 min | ⬜ |
+| T1.5 — Prompt Engineering Lab | ~30 min | ⬜ |
+
+**Total estimated time: ~3.5 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your data/AI map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 📊 Data Cleaner | Quest T1.1 |
+| 🔧 Tool Comparer | Quest T1.2 |
+| 🤖 AI User | Quest T1.3 |
+| ⚖️ Bias Auditor | Quest T1.4 |
+| 🧠 Prompt Engineer | Quest T1.5 |
+| 🏆 AI-Data Ready | All Quests Complete |
+
+**You started curious about AI and data. You ended with clean datasets, audited biases, and the skill to prompt with precision.** 🎉

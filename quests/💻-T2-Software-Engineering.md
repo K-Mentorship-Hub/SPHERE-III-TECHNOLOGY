@@ -140,3 +140,36 @@ BUG REPORT
 - **Want full hands-on practice?** → [DevOps Lab](https://github.com/TEZv/devops-lab)
 - **Need to visualize your data?** → 🖥️ T3 — Dashboards & Interfaces
 - **Need reliable infrastructure?** → ⚙️ T4 — Infra & Reproducibility
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| T2.1 — Workflow Diagram | ~30 min | ⬜ |
+| T2.2 — Automation Checklist | ~30 min | ⬜ |
+| T2.3 — First Repo Setup Guide | ~30 min | ⬜ |
+| T2.4 — API Exploration | ~45 min | ⬜ |
+| T2.5 — Bug Report | ~20 min | ⬜ |
+
+**Total estimated time: ~2.5 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your engineering map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 🗺️ Workflow Mapper | Quest T2.1 |
+| 🤖 Automation Designer | Quest T2.2 |
+| 📋 Git Proficient | Quest T2.3 |
+| 🔌 API Explorer | Quest T2.4 |
+| 🐛 Bug Reporter | Quest T2.5 |
+| 🏆 Engineering Ready | All Quests Complete |
+
+**You started thinking coding was just writing code. You ended with workflows, automation, APIs, and the debugging mindset that keeps systems alive.** 🎉

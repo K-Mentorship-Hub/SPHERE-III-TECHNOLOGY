@@ -146,3 +146,36 @@ RUNBOOK: [Task name]
 - **Want full hands-on practice?** → [DevOps Lab](https://github.com/TEZv/devops-lab)
 - **Need data for monitoring?** → 🤖 T1 — AI & Data
 - **Need dashboards for metrics?** → 🖥️ T3 — Dashboards & Interfaces
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| T4.1 — Reproducibility Checklist | ~30 min | ⬜ |
+| T4.2 — Manual vs. Structured Workflow | ~30 min | ⬜ |
+| T4.3 — Build Process Note | ~30 min | ⬜ |
+| T4.4 — Monitoring Design | ~45 min | ⬜ |
+| T4.5 — Runbook | ~45 min | ⬜ |
+
+**Total estimated time: ~3 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your infra map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| ✅ Reproducibility Aware | Quest T4.1 |
+| 🔄 Workflow Structured | Quest T4.2 |
+| 🏗️ Build Process Clean | Quest T4.3 |
+| 📊 Monitoring Designer | Quest T4.4 |
+| 📋 Runbook Author | Quest T4.5 |
+| 🏆 Infra-Ready | All Quests Complete |
+
+**You started thinking infrastructure was someone else's job. You ended with checklists, monitoring, runbooks, and the mindset that prevents disasters before they happen.** 🎉
