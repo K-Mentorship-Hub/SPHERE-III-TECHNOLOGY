@@ -2,7 +2,7 @@
 
 **Theory + Practice + Test-Drive for each technology direction.**
 
-> Not sure if technology is your sphere? Start with the [7-Day Challenge](https://github.com/K-Mentorship-Hub/DIRECTION-TEST-DRIVE/blob/main/7-DAY-CHALLENGE.md) or try the [Direction Test-Drive](https://github.com/K-Mentorship-Hub/DIRECTION-TEST-DRIVE).
+> Not sure if technology is your sphere? Start with the [7-Day Challenge](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/7-DAY-CHALLENGE.md) or try the [Direction Test-Drive](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE).
 
 ---
 
@@ -153,7 +153,7 @@ Use [`docs/core/GPT_ASSISTED_TECHNOLOGY_WORKFLOW.md`](./docs/core/GPT_ASSISTED_T
 ## After Practice
 
 - **Enjoyed a direction?** Go deeper in this repo's issues and docs
-- **Want to test-drive before committing?** Try the [Direction Test-Drive](https://github.com/K-Mentorship-Hub/DIRECTION-TEST-DRIVE)
+- **Want to test-drive before committing?** Try the [Direction Test-Drive](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE)
 - **Ready to build something?** Move to MVP Lab
 - **Want hands-on DevOps?** Try the [DevOps Lab](https://github.com/TEZv/devops-lab)
 - **Want to improve these tasks?** Open a PR — better practice tasks help the next learner
