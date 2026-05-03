@@ -1,0 +1,19 @@
+{
+  "name": "SPHERE-III TECHNOLOGY — Quest Explorer",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "postCreateCommand": "echo '🤖 SPHERE-III TECHNOLOGY DevContainer ready!' && echo '' && echo '📂 Quests:' && ls -1 quests/*.md 2>/dev/null | sed 's/^/  → /' && echo '' && echo '💡 Open any quest .md file to start your tech path.'",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "shd101wyy.markdown-preview-enhanced"
+      ],
+      "settings": {
+        "markdown.preview.breaks": true,
+        "editor.wordWrap": "on"
+      }
+    }
+  },
+  "forwardPorts": [8000]
+}
