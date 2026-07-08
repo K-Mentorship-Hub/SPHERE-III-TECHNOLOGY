@@ -19,6 +19,27 @@
 
 ---
 
+## 🪜 AI path sits on Data foundations
+
+Do **not** learn AI randomly. Every advanced AI skill stands on a lower layer. **Layer 1 = Data** (this T1 + DE Lab). Layers 2–10 are a map stub — interactive later.
+
+| # | Layer | Status |
+|---|--------|--------|
+| 1 | **Data fundamentals** (SQL, Python, cleaning, pipelines) | ✅ [DE Lab Mage Gym](https://de-lab-interview-gym.web.app) |
+| 2 | AI fundamentals (stats, probability, features) | soon |
+| 3 | Machine learning | soon |
+| 4 | Deep learning | soon |
+| 5 | Transformers | soon |
+| 6 | LLMs | soon |
+| 7 | RAG & knowledge systems | soon |
+| 8 | AI agents | soon |
+| 9 | Production AI | soon |
+| 10 | AI systems engineer | soon |
+
+Mindset: skip foundations → struggle later. Build layer 1 in DE Lab first.
+
+---
+
 ## 📖 Theory Bite
 
 | 🧩 Concept | 💡 What it means |
