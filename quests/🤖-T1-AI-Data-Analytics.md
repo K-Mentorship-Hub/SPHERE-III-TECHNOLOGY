@@ -15,6 +15,7 @@
 | 👤 **Best for** | People who find satisfaction when patterns emerge from chaos |
 | 🏆 **Good first output** | Tiny dataset + one visual insight |
 | 🧪 **Test-drive quest** | [Quest 1 — AI & Data Careers](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-01-ai-data.md) |
+| 🛠️ **Deep practice** | [DE Lab · Mage Gym](https://de-lab-interview-gym.web.app) — interview / work sim for Data Engineering (SQL · pipelines · modeling). Markdown quest: [CHALLENGES.md](https://github.com/TEZv/de-lab/blob/main/CHALLENGES.md) |
 
 ---
 
